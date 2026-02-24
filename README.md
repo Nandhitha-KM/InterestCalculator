@@ -6,8 +6,8 @@ The program validates user input using custom exceptions and applies different i
 
 **Features**
 
-  -Input validation using custom exception
-  -Interest rate based on age & gender
+  - Input validation using custom exception
+  - Interest rate based on age & gender
 
 ---
 
